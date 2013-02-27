@@ -1,0 +1,3 @@
+bob, 21, male
+mary, 22, female
+salle, 38, female
